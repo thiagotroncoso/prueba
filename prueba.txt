@@ -1,1 +1,10 @@
-holaaa me llamo thiago
+respuestas de la prueba
+
+
+a) ¿Para qué sirven los repositorios remotos? (por ejemplo GitHub, GitLab)
+sirva para poder guardar tus trabajos  de una forma más práctica como una código,un cuento y que puedas descargarlo en cualquier computadora o pc para poder continuarlo y aparte te sirva para que si haces una trabajo con muchas personas pudieran hacerlo de una forma mas rapida y comoda
+b) ¿Cuál es la diferencia entre git commit -m y git push?
+la diferencia es que con git commit -m le agregar el nombre de lo que hiciste como por ej:hice un árbol y a diferencia de git push que sirve para subirlo por completo la carpeta o archivos que quieras subir 
+c) ¿Qué es una issue y para qué sirve?
+son las tareas que vos le podes dar a una persona que hay dentro de tu repositorio y sirve para que si vos necesitas repartir un trabajo en 5 puedas darle la parte que le toca a cada persona y no se forme un quilombo de que cada persona haga la misma parte 
+
